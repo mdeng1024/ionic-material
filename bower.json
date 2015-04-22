@@ -1,0 +1,19 @@
+{
+  "name": "ionic-material",
+  "private": "true",
+  "devDependencies": {
+    "ionic": "driftyco/ionic-bower#1.0.0-rc.3"
+  },
+  "resolutions": {
+    "ionic-material": "dbf9eb32bc",
+    "angular": "1.3.13",
+    "angular-animate": "1.3.13",
+    "angular-sanitize": "1.3.13",
+    "angular-ui-router": "0.2.13",
+    "ionic": "1.0.0-rc.3"
+  },
+  "dependencies": {
+    "ionic-material": "master",
+    "ion-md-input": "~0.0.2"
+  }
+}
